@@ -1,8 +1,9 @@
 body {
     background-color: rgb(20, 20, 20);
     font-family: 'Ropa Sans', sans-serif;
-    right: 50%;
 }
 h1 {
     color: rgb(255, 255, 255);
+    right: 50%;
+    font-size: large;
 }
