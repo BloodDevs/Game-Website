@@ -3,7 +3,9 @@ body {
     font-family: 'Ropa Sans', sans-serif;
 }
 h1 {
+    position: absolute;
     color: rgb(255, 255, 255);
-    right: 50%;
+    width: 100%;
+    text-alignment: center;
     font-size: large;
 }
