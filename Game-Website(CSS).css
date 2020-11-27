@@ -6,6 +6,6 @@ h1 {
     position: absolute;
     color: rgb(255, 255, 255);
     width: 100%;
-    text-alignment: center;
+    text-align: center;
     font-size: large;
 }
