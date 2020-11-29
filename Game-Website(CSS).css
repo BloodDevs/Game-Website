@@ -22,7 +22,18 @@ h3 {
 }
 h4 {
     color: rgb(255, 255, 255);
+    margin-top: 525px;
+    width: 99%;
     font-size: 32px;
     letter-spacing: 1px;
     text-shadow: 3px 3px rgb(50, 50, 50);
+}
+h5 {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 25px;
+    bottom: -20px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px rgb(50, 50, 50);
 }
